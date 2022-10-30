@@ -12,3 +12,13 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # BuyMeAKatsu-contracts
+
+「BuyMeACoffee」のJPYC払いによりひとくちカツを遅れるサービスのコントラクト
+
+サイト
+
+https://buy-me-a-katsu.vercel.app/
+
+フロントのgithub
+
+https://github.com/phi7/BuyMeAKatsu-front
